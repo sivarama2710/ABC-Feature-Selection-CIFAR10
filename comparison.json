@@ -1,0 +1,17 @@
+{
+  "All 2048 Features": {
+    "accuracy": 0.599,
+    "features": 2048,
+    "time": 93.63
+  },
+  "PCA 50 Components": {
+    "accuracy": 0.5781,
+    "features": 50,
+    "time": 48.6
+  },
+  "ABC Feature Selection": {
+    "accuracy": 0.5795,
+    "features": 397,
+    "time": 43.61
+  }
+}
